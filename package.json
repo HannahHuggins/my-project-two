@@ -1,0 +1,19 @@
+{
+  "name": "my-project-two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HannahHuggins/my-project-two.git"
+  },
+  "author": "Hannah Huggins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HannahHuggins/my-project-two/issues"
+  },
+  "homepage": "https://github.com/HannahHuggins/my-project-two#readme"
+}
