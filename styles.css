@@ -14,13 +14,13 @@ h1 {
 }
 
 h2 {
-    padding: 100px;
+   padding: 20px;
 }
+
 
 #top-nav {
     border-style: solid black;
     text-align: center;
-    padding: 100px;
 }
 
 .topnav {
@@ -57,7 +57,6 @@ h2 {
     border: none;
     outline: none;
     color: white;
-    padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
     margin: 0;
@@ -129,10 +128,13 @@ h2 {
 
 
 #container {
-    margin:80px;
-    border:20px;
-    padding: 5px;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+}
+
+ul {
+    display: block;
 }
 
 #icon-block {
